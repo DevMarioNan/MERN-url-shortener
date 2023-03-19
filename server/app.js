@@ -2,8 +2,6 @@ import express from "express";
 import mongoose from "mongoose";
 import cors from "cors"
 import dotenv from "dotenv";
-import shortid from "shortid";
-import createHttpError from "http-errors";
 import bodyParser from "body-parser";
 
 //routes
